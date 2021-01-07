@@ -1,2 +1,6 @@
 # hello-world
-i love dogs
+
+not gonna lie
+
+i want to study java. i'm an engineering student c:
+
