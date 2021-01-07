@@ -1,6 +1,6 @@
 # hello-world
 
+not gonna lie
 
-i love cats
-i'm a newbie c:
+i want to study java. i'm an engineering student c:
 
